@@ -1,4 +1,4 @@
-import Recipient from "./recipient";
+import Recipient from "./Recipient";
 import Covid19Vaccine from "./covid19Vaccine";
 
 export default class VaccineTest {
